@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.env
+data/*.har
+generated/api_routes.py
