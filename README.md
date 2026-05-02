@@ -188,7 +188,7 @@ Browser2API generates:
 
 ##  Author
 
-Your Name
+Terrich
 
 ---
 
